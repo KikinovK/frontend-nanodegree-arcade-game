@@ -1,3 +1,5 @@
+[demo](https://kikinovk.github.io/frontend-nanodegree-arcade-game/)
+
 # Classic Arcade Game Clone Project
 
 ## Table of Contents
